@@ -1,4 +1,4 @@
-# projet_casino
+# Jeu_Casino
 Notre règle du jeu : la roulette
 Le joueur mise sur un numéro compris entre 0 et 49 (50 numéros en tout). 
 En choisissant son numéro, il y dépose la somme qu'il souhaite miser.
